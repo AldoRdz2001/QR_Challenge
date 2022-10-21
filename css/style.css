@@ -1,5 +1,5 @@
 /*Variables globales*/
-:root{
+:root {
     --fuentePrincipal: 'Poppins', sans-serif;
     --gris: #e1e1e1;
     --blanco: #ffffff;
@@ -9,7 +9,6 @@ html {
     /*Con esto se hace que un rem sea igual a 10px*/
     font-size: 62.5%;
     box-sizing: border-box;
-    background-color: var(--gris);
     font-family: var(--fuentePrincipal);
 }
 
@@ -20,6 +19,20 @@ html {
 }
 
 body {
+    background-color: var(--gris);
     font-size: 16px;
 }
 
+img {
+    max-width: 100%;
+}
+
+/* Contenedor */
+
+.contenedor {
+    width: min(90%, 35rem);
+    margin: 12rem auto;
+    background-color: var(--blanco);
+    padding: 2rem;
+    border-radius: 5%;
+}
