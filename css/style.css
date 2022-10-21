@@ -55,3 +55,7 @@ img {
     font-weight: 400;
     color: var(--gris);
 }
+
+footer{
+    text-align: center;
+}
