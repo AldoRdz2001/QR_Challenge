@@ -1,0 +1,25 @@
+/*Variables globales*/
+:root{
+    --fuentePrincipal: 'Poppins', sans-serif;
+    --gris: #e1e1e1;
+    --blanco: #ffffff;
+}
+
+html {
+    /*Con esto se hace que un rem sea igual a 10px*/
+    font-size: 62.5%;
+    box-sizing: border-box;
+    background-color: var(--gris);
+    font-family: var(--fuentePrincipal);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 16px;
+}
+
