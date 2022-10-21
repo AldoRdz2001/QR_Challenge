@@ -1,8 +1,9 @@
 /*Variables globales*/
 :root {
     --fuentePrincipal: 'Poppins', sans-serif;
-    --gris: #e1e1e1;
+    --azulbajo: #E4EBF8;
     --blanco: #ffffff;
+    --gris: #A8A8A8;
 }
 
 html {
@@ -19,7 +20,7 @@ html {
 }
 
 body {
-    background-color: var(--gris);
+    background-color: var(--azulbajo);
     font-size: 16px;
 }
 
@@ -39,4 +40,18 @@ img {
 
 .contenedor img{
     border-radius: 5%;
+}
+
+.contenedor__contenido{
+    text-align: center;
+}
+
+.contenedor__contenido--bold{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.contenedor__contenido--normal{
+    font-weight: 400;
+    color: var(--gris);
 }
