@@ -36,3 +36,7 @@ img {
     padding: 2rem;
     border-radius: 5%;
 }
+
+.contenedor img{
+    border-radius: 5%;
+}
