@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/AldoRdz2001/QR_Challenge.git)
-- Live Site URL: [Netfly](https://your-live-site-url.com)
+- Live Site URL: [Netfly](https://qr-code-component-aldo.netlify.app/)
 
 ## My process
 
@@ -65,5 +65,5 @@ I wanna use more JS for more animations and things, or get better understanding 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://qr-code-component-aldo.netlify.app/)
 - Frontend Mentor - [@AldoRdz2001](https://www.frontendmentor.io/profile/AldoRdz2001)
